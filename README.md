@@ -2,7 +2,7 @@
 
 Sample that shows how to use the [webview tag](http://developer.chrome.com/trunk/apps/app_external.html#webview) to create a native looking app for your Nooku powered projects.
 
-![Nooku Chrome App](http://cl.ly/KhCh/Screen%20Shot%202012-11-05%20at%2023.52.35.png)
+![Nooku Chrome App](https://raw.github.com/nooku/nooku-chrome-app/master/screenshots/1280x800.png)
 
 The app's main window contains a `<webview>` that is sized to fit (via the `width` and `height` attributes) and contains an hardcoded URL to our demo installation of Nooku Server at [http://demo.nooku.org/administrator](http://demo.nooku.org/administrator).
 
