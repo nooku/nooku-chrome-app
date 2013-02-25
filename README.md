@@ -10,7 +10,7 @@ The app's main window contains a `<webview>` that is sized to fit (via the `widt
 
 ## Requirements
 
-* Tested on Chrome v25.0.1364.99
+* Developed and tested on [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) v27.0.1422.0
 
 Tip: Checkout [Chromatic](http://mrgeckosmedia.com/applications/info/Chromatic), an easy way to install and update [Chromium](http://www.chromium.org/getting-involved/download-chromium).
 
